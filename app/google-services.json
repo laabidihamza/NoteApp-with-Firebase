@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "708987127075",
-    "project_id": "notesapptutorial",
-    "storage_bucket": "notesapptutorial.appspot.com"
+    "project_number": "253981740224",
+    "project_id": "noteapp-1687d",
+    "storage_bucket": "noteapp-1687d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:708987127075:android:571dbeb273af4f1310b896",
+        "mobilesdk_app_id": "1:253981740224:android:efb7bdeb56df408b793125",
         "android_client_info": {
           "package_name": "com.example.notesapptutorial"
         }
       },
       "oauth_client": [
         {
-          "client_id": "708987127075-l4mprmgitjnftm0i1mep3ap9gb14haid.apps.googleusercontent.com",
+          "client_id": "253981740224-2fl55efvl1kobf7vc5aqdbg5sclocgl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notesapptutorial",
+            "certificate_hash": "327e6aeb610cf75e9d709bf94c3b9d6992c798fd"
+          }
+        },
+        {
+          "client_id": "253981740224-93q1n4bmlp1d11rb2vdackooa0d00met.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDP0xZpbz8k1QjFu1UdqG2_cvJLH_Aen_0"
+          "current_key": "AIzaSyDKikd49BefyclKwv-3VQNexiMx-nYoyYo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "708987127075-l4mprmgitjnftm0i1mep3ap9gb14haid.apps.googleusercontent.com",
+              "client_id": "253981740224-93q1n4bmlp1d11rb2vdackooa0d00met.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
